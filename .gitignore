@@ -1,0 +1,10 @@
+# Dataset is too large for GitHub (100 MB limit) - download it with the notebook instead
+*.osm.pbf
+*.pbf
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

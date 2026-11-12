@@ -1,0 +1,11 @@
+pyrosm
+networkx
+folium
+scipy
+pandas
+numpy
+matplotlib
+scikit-learn
+tqdm
+psutil
+requests
